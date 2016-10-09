@@ -1,1 +1,2 @@
 test ze zdalnego repo ..
+test -- druga linia ..
